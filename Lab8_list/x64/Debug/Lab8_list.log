@@ -1,0 +1,8 @@
+﻿  Lab8_list.cpp
+C:\Users\hp\Documents\programs\cp\L5_SP\cities_arr.h(39,11): warning C4018: >: несоответствие типов со знаком и без знака
+  (компиляция исходного файла "Lab8_list.cpp")
+  
+C:\Users\hp\Documents\programs\cp\L5_SP\cities_arr.h(198,21): warning C4018: <: несоответствие типов со знаком и без знака
+  (компиляция исходного файла "Lab8_list.cpp")
+  
+  Lab8_list.vcxproj -> C:\Users\hp\Documents\programs\cp\L5_SP\x64\Debug\Lab8_list.exe
